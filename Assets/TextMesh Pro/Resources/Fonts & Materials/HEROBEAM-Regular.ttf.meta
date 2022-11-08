@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e89f5c40db7fd4445bafd4f47ddadab9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HERO BEAM
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a47f3daac3a6e9f44b1e5e9f5d87befa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
